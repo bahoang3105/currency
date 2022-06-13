@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="currency">Currency</string>
+    <string name="dollar">$</string>
+    <string name="zero">0</string>
+    <string name="VND">đ</string>
+    <string name="_1">1</string>
+    <string name="USD">USD</string>
+    <string name="equal">=</string>
+    <string name="VND_1">VND</string>
+    <string name="time">Updated 5/31/2022 5:24 PM</string>
+    <string name="update_rates">Update rates</string>
+    <string name="ce">CE</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_0">0</string>
+    <string name="dot">.</string>
+    <string name="_46852_421">46852.421</string>
+    <string name="_20_256">20.256</string>
+</resources>
